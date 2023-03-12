@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@components/*": ["./components/*"],
+      "@public/*": ["./public/*"],
+      "@styles/*": ["./styles/*"],
+      "@pages/*": ["./pages/*"],
+      "@utils/*": ["./utils/*"],
+      "@axios/*": ["./axios/*"],
+      "@hooks/*": ["./hooks/*"],
+      "@store/*": ["./store/*"],
+    }
+  }
+}
